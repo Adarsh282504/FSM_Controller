@@ -19,8 +19,6 @@ FSM_Controller_Project/
 │   └── tb_fsm_controller.v     # Testbench and assertions
 ├── sim/
 │   └── simulation.do            # Simulation script
-├── waveforms/
-│   └── fsm_waveform.png         # Simulation output 
 └── README.md                    # Project description
 
 ## Features
@@ -46,9 +44,7 @@ FSM_Controller_Project/
 4. Observe waveforms to validate state transitions and output behavior.
 5. Optionally, modify the testbench to test custom scenarios.
 
-## Simulation Waveform
-![FSM Simulation Waveform](waveforms/fsm_waveform.png)
-*Waveform shows correct state transitions and output signal (`running`) behavior.*
+
 
 ## Outcome
 This project demonstrates a **fully functional FSM controller** with verified pre-silicon behavior. It provides hands-on experience in **digital design, verification, and simulation**, and serves as a foundation for building more complex sequential digital systems.
