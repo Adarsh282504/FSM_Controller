@@ -11,15 +11,7 @@ The design ensures **deterministic state transitions** based on the clock and in
 
 Pre-silicon verification is performed using a **comprehensive testbench and assertions**, ensuring correctness before hardware implementation. Functional coverage achieved is **>95% across all input scenarios**, reducing design risks.
 
-## Project Structure
-FSM_Controller_Project/
-├── src/
-│   └── fsm_controller.v        # FSM Verilog design
-├── tb/
-│   └── tb_fsm_controller.v     # Testbench and assertions
-├── sim/
-│   └── simulation.do            # Simulation script
-└── README.md                    # Project description
+
 
 ## Features
 - Three-state FSM: IDLE, RUN, STOP
