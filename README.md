@@ -20,7 +20,7 @@ FSM_Controller_Project/
 ├── sim/
 │   └── simulation.do            # Simulation script
 ├── waveforms/
-│   └── fsm_waveform.png         # Simulation output (add your screenshot)
+│   └── fsm_waveform.png         # Simulation output 
 └── README.md                    # Project description
 
 ## Features
